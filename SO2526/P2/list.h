@@ -1,9 +1,4 @@
-/*
-* Participantes:
- * Joel Candal Gómez
- * Ou Zhang
- * Grupo: 2.3
- */
+
 
 #ifndef SO_2526_LIST_HISTORIC_H
 #define SO_2526_LIST_HISTORIC_H
