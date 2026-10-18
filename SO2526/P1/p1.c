@@ -1,9 +1,4 @@
-/*
-* Participantes:
- * Joel Candal Gómez
- * Ou Zhang
- * Grupo: 2.3
- */
+
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <unistd.h>
